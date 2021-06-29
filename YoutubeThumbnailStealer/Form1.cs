@@ -31,7 +31,7 @@ namespace WindowsFormsApp3
             var cli = new WebClient();
             byte[] imgBytes = cli.DownloadData("https://i3.ytimg.com/vi/" + LOL + "/maxresdefault.jpg");
             File.WriteAllBytes(@"thumbnail.jpg", imgBytes);
-            string AptitudeRocks = System.IO.Directory.GetCurrentDirectory();
+            string AptitudeRocks = Directory.GetCurrentDirectory();
             MessageBox.Show("Success!\nSaved to: " + AptitudeRocks + "\\maxresdefault.jpg");
             Process.Start("thumbnail.jpg");
             }
@@ -41,6 +41,10 @@ namespace WindowsFormsApp3
             }
 
         }
-    
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
