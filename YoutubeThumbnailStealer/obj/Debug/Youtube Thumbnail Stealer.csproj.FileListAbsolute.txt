@@ -1,0 +1,10 @@
+C:\Users\Administrator\Source\Repos\Youtube-Thumbnail-Stealer\YoutubeThumbnailStealer\bin\Debug\Youtube Thumbnail Stealer.exe.config
+C:\Users\Administrator\Source\Repos\Youtube-Thumbnail-Stealer\YoutubeThumbnailStealer\bin\Debug\Youtube Thumbnail Stealer.exe
+C:\Users\Administrator\Source\Repos\Youtube-Thumbnail-Stealer\YoutubeThumbnailStealer\bin\Debug\Youtube Thumbnail Stealer.pdb
+C:\Users\Administrator\Source\Repos\Youtube-Thumbnail-Stealer\YoutubeThumbnailStealer\obj\Debug\Youtube Thumbnail Stealer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Source\Repos\Youtube-Thumbnail-Stealer\YoutubeThumbnailStealer\obj\Debug\WindowsFormsApp3.YoutubeThumbnailStealer.resources
+C:\Users\Administrator\Source\Repos\Youtube-Thumbnail-Stealer\YoutubeThumbnailStealer\obj\Debug\YoutubeThumbnailStealer.Properties.Resources.resources
+C:\Users\Administrator\Source\Repos\Youtube-Thumbnail-Stealer\YoutubeThumbnailStealer\obj\Debug\Youtube Thumbnail Stealer.csproj.GenerateResource.cache
+C:\Users\Administrator\Source\Repos\Youtube-Thumbnail-Stealer\YoutubeThumbnailStealer\obj\Debug\Youtube Thumbnail Stealer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\Youtube-Thumbnail-Stealer\YoutubeThumbnailStealer\obj\Debug\Youtube Thumbnail Stealer.exe
+C:\Users\Administrator\Source\Repos\Youtube-Thumbnail-Stealer\YoutubeThumbnailStealer\obj\Debug\Youtube Thumbnail Stealer.pdb
