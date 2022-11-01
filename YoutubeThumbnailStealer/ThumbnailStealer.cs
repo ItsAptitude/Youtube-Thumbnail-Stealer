@@ -25,11 +25,10 @@ namespace WindowsFormsApp3
             var wc = new WebClient();
             try
             {
-            byte[] imgBytes = wc.DownloadData("https://i3.ytimg.com/vi/" + textBox1.Text.Substring(32) + "/maxresdefault.jpg");
-            File.WriteAllBytes(@"thumbnail.jpg", imgBytes);
-            string AptitudeRocks = Directory.GetCurrentDirectory();
-            MessageBox.Show("Success!\nSaved to: " + AptitudeRocks + "\\maxresdefault.jpg");
-            Process.Start("thumbnail.jpg");
+                byte[] imgBytes = wc.DownloadData("https://i3.ytimg.com/vi/" + textBox1.Text.Substring(32) + "/maxresdefault.jpg");
+                File.WriteAllBytes(@"thumbnail.jpg", imgBytes);
+                MessageBox.Show("Success!\nSaved to: " + Directory.GetCurrentDirectory() + "\\maxresdefault.jpg");
+                Process.Start("thumbnail.jpg");
             }
             catch
             {
